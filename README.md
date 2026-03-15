@@ -1,9 +1,10 @@
-## Hi there 👋
-
+## I'm Kasjan
+- I'm currently working on a game of Skitgubbe, also known as Palace.
+- I have been programming in Go and Python for 2 years.
+- I have been taking courses on [boot.dev](boot.dev) that have helped me become a skilled engineer.
+- I am currently looking for a ful time role, so if you know any company that need a Python or Go engineer, hit me up.
 <!--
 **KasjanK/KasjanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
